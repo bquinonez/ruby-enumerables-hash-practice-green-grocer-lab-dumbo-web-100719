@@ -19,9 +19,7 @@ coupons.each do |key, value|
   cart.each do |food, description|
  
 end
-end
 
-end
 
 
 def apply_clearance(cart)
